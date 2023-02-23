@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi Kant Giri</h1>
 <h3 align="center">A passionate VLSI design engineer from India</h3>
-<img align="right" alt="coding" width="400" src= "https://user-images.githubusercontent.com/126142270/220856368-bfcb6b63-d6be-4acf-84ee-1801b1d8eb4f.png"
+<img align="right" alt="coding" width="300" src= "https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif"
 >
 
 - 🔭 I’m currently pursuing M.tech in **VLSI design**
