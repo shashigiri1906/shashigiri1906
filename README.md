@@ -3,19 +3,20 @@
 <h3 align="center">A passionate VLSI design engineer from India</h3>
 <img align="right" alt="coding" width="300" src= "https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 
-- 🔭 I’m currently pursuing M.tech in **VLSI design**
+- 🔭 I’m currently pursuing M.tech in Instrumentation and Applied Physics.
+
 
 - 🌱 I’m currently learning **RTL design, verification, synthesis, and physical design using industry-standard EDA tools**
 
-- 👨‍💻 All of my projects are available at [test123zz.com](test123zz.com)
 
-- 📝 I regularly write articles on [test123zz.com](test123zz.com)
+
+
 
 - 💬 Ask me about **computer architecture, digital/analog circuits, embedded systems, and programming languages (Verilog, VHDL, C++).**
 
 - 📫 How to reach me **shashigiri1906@gmail.com**
 
-- 📄 Know about my experiences [test123zz.com](test123zz.com)
+
 
 - ⚡ Fun fact **I am also a practitioner origamist**
 
